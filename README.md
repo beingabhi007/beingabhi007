@@ -1,5 +1,6 @@
-### Hi there 👋 
-🔭 I’m currently working on MERN Stack.
+### Hi 🙋‍  
+### I'm 20 years old Self-taught Full-satck developer from the India.
+### 🔭 I’m currently working on MERN Stack , in my past projects i have dealed with Html, CSS, React, Twitter Bootstrap, PHP, Firebase, mySqlDB , MongoDB etc. 
 
 <!--
 **beingabhi007/beingabhi007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
