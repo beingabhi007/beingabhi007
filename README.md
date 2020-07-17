@@ -2,11 +2,11 @@
 ### I'm 20 years old Self-taught Full-stack developer from the India.
 ### 🔭 I’m currently working on MERN Stack and playing with API's, in my past projects i have dealed with Html, CSS, React, Twitter Bootstrap, PHP, Firebase, mySqlDB , MongoDB etc. 
 
-🏃 I’m team player who values collaboration, innovation and inclusion.
-🤔 I’m able to work with minimal supervision.
-⚡️ I’m ready to take up new technical challenges.
-✨ I’m adaptable and transformable to learn latest technologies as per business need.
-📱  I optimize the application code and always maintain a good object oriented practices.
+### 🏃 I’m team player who values collaboration, innovation and inclusion.
+### 🤔 I’m able to work with minimal supervision.
+### ⚡️ I’m ready to take up new technical challenges.
+### ✨ I’m adaptable and transformable to learn latest technologies as per business need.
+### 📱  I optimize the application code and always maintain a good object oriented practices.
 
 
 <!--
