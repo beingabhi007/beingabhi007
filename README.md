@@ -7,7 +7,7 @@
 ### ⚡️ I’m ready to take up new technical challenges.
 ### ✨ I’m adaptable and transformable to learn latest technologies as per business need.
 ### 📱  I optimize the application code and always maintain a good object oriented practices.
-
+### 👀   You can find me on linkedin https://www.linkedin.com/in/abhi-sahu-55058a14b/
 
 <!--
 **beingabhi007/beingabhi007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
