@@ -1,6 +1,5 @@
 ### Hi 🙋‍  
 ![](https://komarev.com/ghpvc/?username=beingabhi007)
-### I'm 20 years old Self-taught Full-stack developer from the India.
 <a href="https://www.linkedin.com/in/abhi-sahu-55058a14b">
   <img height="30"width="30px" src="https://github.com/umangdubey/ReadME_md/blob/master/linkedin.svg" />
 </a>
@@ -10,6 +9,7 @@
 Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on MERN Stack and playing with API's, in my past projects i have dealed with Html, CSS, React, Twitter Bootstrap, PHP, Firebase, mySqlDB , MongoDB etc. 
+### I'm 20 years old Self-taught Full-stack developer from the India.
 ### 🏃 I’m team player who values collaboration, innovation and inclusion.
 ### 🤔 I’m able to work with minimal supervision.
 ### ⚡️ I’m ready to take up new technical challenges.
