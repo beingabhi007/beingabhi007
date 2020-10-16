@@ -1,4 +1,5 @@
 ### Hi 🙋‍  
+![](https://komarev.com/ghpvc/?username=beingabhi007)
 ### I'm 20 years old Self-taught Full-stack developer from the India.
 ### 👀   You can find me on linkedin https://www.linkedin.com/in/abhi-sahu-55058a14b/
 
@@ -23,5 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-![](https://komarev.com/ghpvc/?username=beingabhi007)
+
 [![Abhi's github stats](https://github-readme-stats.vercel.app/api?username=beingabhi007)](https://github.com/beingabhi007/github-readme-stats)
