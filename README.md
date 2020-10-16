@@ -1,8 +1,9 @@
 ### Hi 🙋‍  
 ![](https://komarev.com/ghpvc/?username=beingabhi007)
 ### I'm 20 years old Self-taught Full-stack developer from the India.
-### 👀   You can find me on linkedin https://www.linkedin.com/in/abhi-sahu-55058a14b/
-
+<a href="https://www.linkedin.com/in/abhi-sahu-55058a14b">
+  <img height="30"width="30px" src="https://github.com/umangdubey/ReadME_md/blob/master/linkedin.svg" />
+</a>
 <!--
 **beingabhi007/beingabhi007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
