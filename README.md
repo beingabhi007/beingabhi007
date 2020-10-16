@@ -1,6 +1,6 @@
 ### Hi 🙋‍  
 ![](https://komarev.com/ghpvc/?username=beingabhi007)
-<a href="https://www.linkedin.com/in/abhi-sahu-55058a14b">
+![]<a href="https://www.linkedin.com/in/abhi-sahu-55058a14b">
   <img height="30"width="30px" src="https://github.com/umangdubey/ReadME_md/blob/master/linkedin.svg" />
 </a>
 <!--
