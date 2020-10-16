@@ -1,8 +1,16 @@
 ### Hi 🙋‍  
 ![](https://komarev.com/ghpvc/?username=beingabhi007)
-![]<a href="https://www.linkedin.com/in/abhi-sahu-55058a14b">
+<a href="https://www.linkedin.com/in/abhi-sahu-55058a14b">
   <img height="30"width="30px" src="https://github.com/umangdubey/ReadME_md/blob/master/linkedin.svg" />
 </a>
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/umang-dubey-7b1466118/">
+  <img height="30"width="30px" src="https://github.com/umangdubey/ReadME_md/blob/master/linkedin.svg" />
+</a>
+
+
 <!--
 **beingabhi007/beingabhi007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
